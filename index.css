@@ -1,0 +1,129 @@
+body{
+
+   
+    background-color: #FFF5EE;
+}
+
+
+#apresentacao{
+
+
+   font-family: 'Courier New', Courier, monospace;
+   font-style: inherit;
+   
+   margin-top: 30px;
+   text-align: center;
+   
+
+}
+
+
+#banner{
+ background-color: #FFF5EE;
+ width: 100%;
+ height: 120px;
+ position: absolute;
+
+
+
+}
+
+#barra-de-pesquisa{
+   margin-top: 120px;
+   width: 100%;
+   height: 50px;
+   background-color: black;
+   position: absolute;
+   border: 2px solid cyan;
+   margin-left: -8px;
+   
+   
+   
+}
+
+
+.barra{
+
+     display:inline-flex;
+     color: white;
+     padding-left: 150px;
+     text-decoration: none;
+     
+
+
+
+
+
+
+}
+
+
+
+#barra-inferior{
+
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+    border: 2px solid cyan;
+    
+
+}
+
+.texto_barra{
+
+  color: white;
+  font: 20px;
+  display: inline-flex;
+  margin-left: 20%;
+  background-color: black;
+  border: 0;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+
+
+.imagens{
+  background-color: black;
+  position: absolute;
+  width: 200px;
+  height: 262px;
+  margin-left: 10%;
+  margin-top: 15%;
+  border: 5px solid lightgray;
+  
+
+}
+
+#imagem1{
+   margin-left: 32.5%;
+   
+}
+#imagem2{
+      
+  margin-left: 55%;
+  
+
+}
+
+#imagem3{
+
+  margin-left:77.5% ;
+}
+
+
+#ofertas{
+  position: absolute;
+  width: 60%;
+  margin-left: 330px;
+  background-color: white;
+  margin-top: 35%;
+  text-align: center;
+  height: 80px;
+  border: 5px solid lightgray;
+
+}

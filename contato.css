@@ -3,3 +3,114 @@ body{
    
     background-color: #FFF5EE;
 } 
+
+
+
+
+
+#apresentacao{
+   margin-top: 30px;
+    text-align: center;
+
+}
+
+
+#endereco{
+
+
+    text-align: center;
+}
+
+
+
+#formulario{
+  margin-top: 50px;
+  margin-left: 30%;
+
+}
+
+.opcoes{
+
+ margin-left: 50px;
+
+}
+
+#formulario1{
+ 
+      margin-left: 40%;
+   
+
+}
+
+
+#pergunta{
+
+    margin-left: 13%;
+    font-size: 20px;
+
+
+}
+
+
+#pergunta1{
+
+    margin-left: 40%;
+    font-size: 20px;
+
+
+}
+
+
+.form1{
+    margin-top: 50px;
+}
+
+.contato{
+
+      display: inline-flex;
+      margin-left: 17%;
+
+
+}
+
+
+#barra-inferior{
+
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+    
+
+}
+
+
+
+#link{
+  
+   text-align: center;
+   text-decoration: none;
+   font: 20px;
+   color: white;
+   margin-left: 45%;
+   
+
+
+}
+
+#div_contato{
+
+  height: 50px;
+  width: 100%;
+  background-color: white;
+
+
+}
+
+#nomes{
+    margin-top: 100px;
+    margin-left: 20px;
+}
